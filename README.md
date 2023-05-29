@@ -2,4 +2,4 @@
 
 
 # WORD-IDENTIFIER
-To detect the stamp value of increment String. That a string bacame an ID as a sum due characters graph.
+To detect the stamp value of increment String. That a string bacame an ID as a sum by characters coordinates.
